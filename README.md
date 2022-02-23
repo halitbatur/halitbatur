@@ -9,7 +9,7 @@ I am a student of Yildiz teknik University's Industrial Engineering department! 
   
 **About Me:**
 
-- 🌱 I’m currently working as Coding instrcutor @[Re:Coded](https://www.re-coded.com/).
+- I’m currently working as Coding instrcutor @[Re:Coded](https://www.re-coded.com/).
 - 💬 I would love to connect with different people and work on projects together!
 - 📫 How to reach me: [Halit Batur](https://www.linkedin.com/in/halit-batur-481253197/)
 
@@ -31,7 +31,7 @@ I am a student of Yildiz teknik University's Industrial Engineering department! 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=halitbatur&show_icons=true&count_private=true&theme=dark&hide_border=true" />
 </a>
 
-<a href="#"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=halitbatur&theme=dark&date_format=M%20j%5B%2C%20Y%5D"></a>
+<a href="#"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=halitbatur&theme=dark&date_format=M%20j%5B%2C%20Y%5D&hide_border=true"></a>
 
 <a href="https://github.com/halitbatur/github-readme-activity-graph"><img alt="halitbatur's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=halitbatur&hide_border=true&theme=react-dark" /></a>
 
