@@ -9,7 +9,7 @@ I am a student of Yildiz teknik University's Industrial Engineering department! 
   
 **About Me:**
 
-- I’m currently working as Coding instrcutor @[Re:Coded](https://www.re-coded.com/).
+- I’m currently working as Coding instructor @[Re:Coded](https://www.re-coded.com/).
 - 💬 I would love to connect with different people and work on projects together!
 - 📫 How to reach me: [Halit Batur](https://www.linkedin.com/in/halit-batur-481253197/)
 
